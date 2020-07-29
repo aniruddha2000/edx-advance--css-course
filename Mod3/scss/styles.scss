@@ -1,12 +1,19 @@
 @import "./base/base.scss";
-@import "./base/normalize.scss";
 @import "./base/media-queries.scss";
+@import "./base/mixins.scss";
+@import "./base/normalize.scss";
+@import "./base/variables.scss";
+
 @import "./layouts/layout.scss";
+
 @import "./modules/bg-image.scss";
 @import "./modules/buttons.scss";
+@import "./modules/frame.scss";
 @import "./modules/header.scss";
 @import "./modules/hero.scss";
 @import "./modules/logo.scss";
+@import "./modules/mask.scss";
 @import "./modules/media.scss";
 @import "./modules/navs.scss";
+
 @import "./themes/theme.scss";
