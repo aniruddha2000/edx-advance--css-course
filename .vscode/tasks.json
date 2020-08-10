@@ -2,5 +2,5 @@
   "version": "2.0.0",
   "command": "sass",
   "type": "shell",
-  "args": ["Mod3/scss/styles.scss", "Mod3/css/styles.css"]
+  "args": ["Mod4/scss/styles.scss", "Mod4/css/styles.css"]
 }
